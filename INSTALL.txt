@@ -1,0 +1,16 @@
+EVENTORA QUICK INSTALL
+
+1. Extract Eventora.zip.
+2. Put Eventora inside XAMPP/htdocs/.
+3. Start Apache and MySQL.
+4. Open phpMyAdmin -> Import -> setup.sql.
+5. If your MySQL password is not blank, edit Eventora/includes/config.php.
+6. Visit http://localhost/Eventora/
+
+HOD:
+hod@eventora.local
+Eventora@123
+
+STUDENT:
+student@eventora.local
+Eventora@123
